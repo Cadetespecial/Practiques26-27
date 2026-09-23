@@ -1,3 +1,12 @@
-#  Quina assignatures t'agrada més ?
+# La meva assignatura preferida
 
-A mi m'agraden totes les **assignatures** que imparteixo. Però la que més m'agrada és l'assignatura de **Gestió de base de dades**
+## Administacio de S.O.
+
+L'assignatura que més m'agrada és **Administraco de S.O.** perquè m'agrada
+aprendre a poder gestionar una empresa informaticament
+
+M'agrada especialment perquè:
+
+- Es la base de tot es molt tecnic.
+- Tocas desde fisic a logica.
+- Aprens com funciona tot seguretat, entre altres.
