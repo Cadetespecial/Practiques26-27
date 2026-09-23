@@ -18,6 +18,7 @@ Realitza el pull request (amb un missatge de commit significatiu) i espera que s
 
 ** Quina assignatura t'agrada més? i perquè? **
 
+* [lknt](files/lknt.md)
 * [mct](files/mct.md)
 * [MMM](files/mmm.md)
 * [asc](files/assignatura.md)
